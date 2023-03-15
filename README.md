@@ -6,17 +6,20 @@ Appwrite is a secure open-source backend server provides the core APIs required 
 
 ### Why participate in an Octernship with GitHub
 Appwrite is an open-source project with a fast growing community. It started out as an open-source project a few years ago for the purpose of making software development easier and less complex to give developers a better starting point to build new projects. Our team is actively working with the fast-growing community to make Appwrite better.
-In this role, you will have the opportunity to work as a designer to help improve our documentation, working closely with our design and developer relations team. 
+In this role, if your project is selected and we bring you on as an intern, you will have the opportunity to work as a designer to help improve our documentation, working closely with our design, engineering, and developer relations team. 
 
 
 ### Octernship role description
 We're looking for a designer to join our design team. This team is responsible for creating landing pages for our website, maintaining internal design assets and presentations, creating illustrations and video content, creating brand identity and guidelines to all existing designs, and improve design in all areas, including all types of documentation and documents.
 
+We will be selecting 1 octern to join our team after the deadline is complete.
+
+
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 15 May 2023  |
+| Assignment Deadline  | 15 April 2023  |
 | Octernship Duration  | 2 Months  |
-| Monthly Stipend  | $500 USD  |
+
 
 ### Recommended qualifications
 - Experience with Git & GitHub

@@ -14,6 +14,10 @@ We're looking for a designer to join our design team. This team is responsible f
 
 We will be selecting 1 octern to join our team after the deadline is complete.
 
+### Important Note
+
+Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months.
+
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |

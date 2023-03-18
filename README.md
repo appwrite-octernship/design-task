@@ -19,10 +19,16 @@ We will be selecting 1 octern to join our team after the deadline is complete.
 Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months.
 
 
-| Octernship info  | Timelines and Stipend |
-| ------------- | ------------- |
-| Assignment Deadline  | 15 April 2023  |
-| Octernship Duration  | 2 Months  |
+### Important Note
+Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months. The monthly stipend will be $500/month with a chance of being hired and/or a report on how you can improve and be an ideal employee.
+
+
+| Octernship info      | Timelines             |
+| -------------        | --------------        |
+| Assignment Deadline  | 15 April 2023         |
+| Project Duration     | 6 weeks               |
+| Project Task Length  | < 1 week              |
+| Octernship Duration  | 3 months              |
 
 
 ### Recommended qualifications

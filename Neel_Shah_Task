@@ -1,0 +1,13 @@
+I am contributing  to Appwrite from quite a long time ,have more than 5 PRs merged ,I have contributed mainly to code but I have written some articles also .
+Seeing a lot of transformation in this span .
+I would like to suggest some points if it's possible 
+1. Create a side navigation system that will make it simple for users to browse the Appwrite documentation.
+2. Make use of SDK and version selection to give consumers rapid access to the particular section they need.
+3. Include 'In this page' navigation with anchor links to make it simpler for customers to find what they're looking for on a lengthy page.
+4. Create the page's main content using a variety of elements, including tables, lists, code samples, etc.
+5. Create a search function to make it simple to locate information in the documentation.
+6. Make the documentation more user-friendly on mobile devices, taking into mind any problems such incorrectly functioning tables.
+7. Create a placeholder for the search feature that is currently being developed.
+8. Give an illustration of each distinct design element and layout utilised in the documentation.
+9. If necessary, suggest new parts for the design system.
+10. Use your imagination to find new methods to improve the documentation's design without simply copying it.
